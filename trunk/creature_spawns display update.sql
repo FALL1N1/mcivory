@@ -1,0 +1,1 @@
+update creature_spawns set displayid=(select male_displayid from creature_names where entry=creature_spawns.entry);
