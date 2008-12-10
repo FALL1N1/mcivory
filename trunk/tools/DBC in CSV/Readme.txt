@@ -1,0 +1,1 @@
+DBC Ordner in diesen Ordner packen und DBCUtil ausführen
