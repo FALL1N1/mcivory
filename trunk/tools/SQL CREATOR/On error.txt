@@ -1,0 +1,6 @@
+If the software dont work, take all files in the folder OCX_DLL and 
+put those files in C:\WINDOWS\system32
+
+Karfax
+
+:)
