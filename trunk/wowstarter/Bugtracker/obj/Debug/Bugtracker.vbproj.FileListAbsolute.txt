@@ -1,0 +1,13 @@
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\Bugtracker\bin\Debug\Bugtracker.exe
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\Bugtracker\bin\Debug\Bugtracker.pdb
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\Bugtracker\bin\Debug\Bugtracker.xml
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\Bugtracker\obj\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\Bugtracker\obj\Debug\Bugtracker.Form1.resources
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\Bugtracker\obj\Debug\Bugtracker.Resources.resources
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\Bugtracker\obj\Debug\Bugtracker.vbproj.GenerateResource.Cache
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\Bugtracker\obj\Debug\Bugtracker.exe
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\Bugtracker\obj\Debug\Bugtracker.xml
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\Bugtracker\obj\Debug\Bugtracker.pdb
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\Bugtracker\obj\Debug\Bugtracker.admin.resources
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\Bugtracker\obj\Debug\Bugtracker.anmelden.resources
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\Bugtracker\obj\Debug\Bugtracker.user.resources
