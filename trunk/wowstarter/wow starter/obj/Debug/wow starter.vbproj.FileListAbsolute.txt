@@ -1,0 +1,28 @@
+C:\Dokumente und Einstellungen\User\Desktop\Neuer Ordner\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\User\Desktop\Neuer Ordner\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Debug\WindowsApplication1.Form1.resources
+C:\Dokumente und Einstellungen\User\Desktop\Neuer Ordner\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Debug\WindowsApplication1.Form2.resources
+C:\Dokumente und Einstellungen\User\Desktop\Neuer Ordner\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Debug\WindowsApplication1.Resources.resources
+C:\Dokumente und Einstellungen\User\Desktop\Neuer Ordner\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Debug\wow starter.vbproj.GenerateResource.Cache
+C:\Dokumente und Einstellungen\User\Desktop\Neuer Ordner\Visual Studio 2008\Projects\wowstarter\wow starter\bin\Debug\wow-starter.exe
+C:\Dokumente und Einstellungen\User\Desktop\Neuer Ordner\Visual Studio 2008\Projects\wowstarter\wow starter\bin\Debug\wow-starter.pdb
+C:\Dokumente und Einstellungen\User\Desktop\Neuer Ordner\Visual Studio 2008\Projects\wowstarter\wow starter\bin\Debug\wow-starter.xml
+C:\Dokumente und Einstellungen\User\Desktop\Neuer Ordner\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Debug\wow-starter.exe
+C:\Dokumente und Einstellungen\User\Desktop\Neuer Ordner\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Debug\wow-starter.xml
+C:\Dokumente und Einstellungen\User\Desktop\Neuer Ordner\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Debug\wow-starter.pdb
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\wow starter\bin\Debug\wow-starter.exe
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\wow starter\bin\Debug\wow-starter.pdb
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\wow starter\bin\Debug\wow-starter.xml
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Debug\WindowsApplication1.Resources.resources
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Debug\wow starter.vbproj.GenerateResource.Cache
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Debug\wow-starter.exe
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Debug\wow-starter.xml
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Debug\wow-starter.pdb
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Debug\WindowsApplication1.start.resources
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Debug\WindowsApplication1.realmlist.resources
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Debug\WindowsApplication1.info.resources
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Debug\WindowsApplication1.download.resources
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Debug\WindowsApplication1.versioninfo.resources
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Debug\WindowsApplication1.web.resources
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Debug\WindowsApplication1.admin.resources
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Debug\WindowsApplication1.Form1.resources
