@@ -1,0 +1,31 @@
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Release\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Release\WindowsApplication1.Resources.resources
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Release\wow starter.vbproj.GenerateResource.Cache
+C:\Dokumente und Einstellungen\User\Desktop\Neuer Ordner\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Release\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\User\Desktop\Neuer Ordner\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Release\WindowsApplication1.Form1.resources
+C:\Dokumente und Einstellungen\User\Desktop\Neuer Ordner\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Release\WindowsApplication1.Resources.resources
+C:\Dokumente und Einstellungen\User\Desktop\Neuer Ordner\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Release\wow starter.vbproj.GenerateResource.Cache
+C:\Dokumente und Einstellungen\User\Desktop\Neuer Ordner\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Release\WindowsApplication1.Form2.resources
+C:\Dokumente und Einstellungen\User\Desktop\Neuer Ordner\Visual Studio 2008\Projects\wowstarter\wow starter\bin\Release\wow-starter.exe
+C:\Dokumente und Einstellungen\User\Desktop\Neuer Ordner\Visual Studio 2008\Projects\wowstarter\wow starter\bin\Release\wow-starter.pdb
+C:\Dokumente und Einstellungen\User\Desktop\Neuer Ordner\Visual Studio 2008\Projects\wowstarter\wow starter\bin\Release\wow-starter.xml
+C:\Dokumente und Einstellungen\User\Desktop\Neuer Ordner\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Release\wow-starter.exe
+C:\Dokumente und Einstellungen\User\Desktop\Neuer Ordner\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Release\wow-starter.xml
+C:\Dokumente und Einstellungen\User\Desktop\Neuer Ordner\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Release\wow-starter.pdb
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Release\wow-starter.exe
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Release\wow-starter.xml
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Release\wow-starter.pdb
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\wow starter\bin\Release\wow-starter.exe
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\wow starter\bin\Release\wow-starter.pdb
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\wow starter\bin\Release\wow-starter.xml
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Release\WindowsApplication1.start.resources
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Release\WindowsApplication1.realmlist.resources
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Release\WindowsApplication1.info.resources
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Release\WindowsApplication1.download.resources
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Release\WindowsApplication1.versioninfo.resources
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Release\WindowsApplication1.web.resources
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Release\WindowsApplication1.admin.resources
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Release\WindowsApplication1.Form1.resources
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Release\WindowsApplication1.bugtracker.resources
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\wow starter\obj\Release\WindowsApplication1.SplashScreen1.resources
+C:\Dokumente und Einstellungen\User\Eigene Dateien\Visual Studio 2008\Projects\wowstarter\wow starter\bin\Release\MySql.Data.dll
