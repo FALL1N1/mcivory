@@ -1,7 +1,0 @@
-mit diesen updates könnt ihr ganz leicht sachen aus mangos zu arcemu convertieren. 
-wichtig ist nur das die tabellen in einer db sind
-dessweiteren findet ihr auch clean ups zur db säuberung usw.
-
-das (c) liegt bei ivory bitte darann halten un nich einfach so weitergeben un labern es wäre von euch danke
-
-

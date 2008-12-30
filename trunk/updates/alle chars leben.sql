@@ -1,1 +1,0 @@
-UPDATE `characters` SET `deathstate` = '0' WHERE `deathstate` = '1';
