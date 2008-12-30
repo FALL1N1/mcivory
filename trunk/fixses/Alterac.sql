@@ -1,2 +1,0 @@
-DELETE FROM `worldmap_info` WHERE (`entry` = '30');
-INSERT INTO `worldmap_info` VALUES ('30', '30', '0', '10', '50', '0', '0', '0', '0', 'Alterac Valley', '3', '0', '0', '0', '0', '0', '0', '80', '0');
