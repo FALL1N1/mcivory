@@ -1,13 +1,16 @@
-CHANGESET 2 INDB
 
 addet missing drop from http://wowhead.com/?item=37700
 
 addet missing drop from http://wowhead.com/?item=37703
 
-updatet bossloots from naxxraas 
+updatet bossloots from naxxramas 
 http://wowhead.com/?npc=15956
 http://wowhead.com/?npc=16028
 http://wowhead.com/?npc=15932
+
+updatet npcloot from naxxramas
+http://wowhead.com/?npc=15975
+http://wowhead.com/?npc=15981
 
 addet objectloot for 
 http://wowhead.com/?object=191133
