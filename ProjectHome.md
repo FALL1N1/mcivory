@@ -1,0 +1,1 @@
+this is the svn from mcmultigaming youn found here sql parser to get from mangos to arcemu or aspire
